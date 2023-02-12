@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/toappuseForm.git/static/css/main.073c9b0a.css",
-    "main.js": "/toappuseForm.git/static/js/main.50d3b5f5.js",
-    "static/js/787.69fa68cb.chunk.js": "/toappuseForm.git/static/js/787.69fa68cb.chunk.js",
-    "index.html": "/toappuseForm.git/index.html",
-    "main.073c9b0a.css.map": "/toappuseForm.git/static/css/main.073c9b0a.css.map",
-    "main.50d3b5f5.js.map": "/toappuseForm.git/static/js/main.50d3b5f5.js.map",
-    "787.69fa68cb.chunk.js.map": "/toappuseForm.git/static/js/787.69fa68cb.chunk.js.map"
+    "main.css": "/todoappmodified.git/static/css/main.073c9b0a.css",
+    "main.js": "/todoappmodified.git/static/js/main.42e6d2a9.js",
+    "static/js/787.69fa68cb.chunk.js": "/todoappmodified.git/static/js/787.69fa68cb.chunk.js",
+    "index.html": "/todoappmodified.git/index.html",
+    "main.073c9b0a.css.map": "/todoappmodified.git/static/css/main.073c9b0a.css.map",
+    "main.42e6d2a9.js.map": "/todoappmodified.git/static/js/main.42e6d2a9.js.map",
+    "787.69fa68cb.chunk.js.map": "/todoappmodified.git/static/js/787.69fa68cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.50d3b5f5.js"
+    "static/js/main.42e6d2a9.js"
   ]
 }
